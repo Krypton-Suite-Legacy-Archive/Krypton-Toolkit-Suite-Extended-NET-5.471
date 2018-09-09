@@ -12,11 +12,22 @@
 
 ======
 
+## 09-09-2018 September Update
+* New colour controls and UI options have been implemented to easily create brand new themes
+* New application named `Palette Editor` has been implemented to create new themes (89% completed) - feedback would be welcome
+* New debugging options
+* A new circular picture box
+* New API to allow a complementary colour set to be generated.
+* New project icon
+* Tidy up code
+
+======
+
 ## 2018-07-08 Initial Commit
 * Reset build paths, so no errors should be incurred.
 * One **new** theme called `Slate Silver`, stylised for the 2007/2010 and 2013 theme sets.
 * There are now 50+ **new** palettes to choose from.
-* A new toolstrip label capable of background gradeints is now available to use, as per [#28](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-4.70/issues/28).
+* A new toolstrip label capable of background gradeints is now available to use, as per [#28](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-4.71/issues/28).
 * Colours... colours... colours... We now have 26 **new** colours to choose from! Find the `xml` files in the `Palettes` folder, this will be updated regulary, so be sure to come back often! Alternatively, if you would like to request/submit a colour palette, then please submit a base colour in a hexadecimal format plus a suitable name for it on the `New Palette Ideas` issues thread.
 * Tinkering with the References.
 * Start to fill out the WIX installer project.
