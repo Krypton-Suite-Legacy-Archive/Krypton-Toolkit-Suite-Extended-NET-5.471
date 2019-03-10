@@ -23,7 +23,7 @@
 * Working on new folder browser dialog and file browser
 * New theme chooser component (proof of concept for a more sophisticated UI for next update)
 * Groundwork for new elements for next update
-* Upgraded to Krypton Toolkit Suite - version: **5.470.720**
+* Upgraded to Krypton Toolkit Suite - version: **5.471.717**
 * Removed **LinqBridge** requirement, [#48](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.470/issues/48)
 * Reorganised `Playground` test application
 
