@@ -314,9 +314,9 @@ namespace ExtendedFileDialogs.Controls.Old
                         _ComboFolders = hwnd;
                         _ComboFoldersInfo = windowInfo;
                         break;
-                    case ControlsId.ComboFileType:
-                        _hComboExtensions = hwnd;
-                        _ComboExtensionsInfo = windowInfo;
+                    //case ControlsId.ComboFileType:
+                    //    _hComboExtensions = hwnd;
+                    //    _ComboExtensionsInfo = windowInfo;
                         break;
                     case ControlsId.ComboFileName:
                         if (className.ToString().ToLower() == "comboboxex32")
@@ -612,7 +612,7 @@ namespace ExtendedFileDialogs.Controls.Old
         DefaultView = 0x461,
         LeftToolBar = 0x4A0,
         ComboFileName = 0x47c,
-        ComboFileType = 0x470,
+        ComboFileType = 0x471,
         ComboFolder = 0x471,
         CheckBoxReadOnly = 0x410
     }
