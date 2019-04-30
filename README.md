@@ -24,7 +24,7 @@
 
 ## Control Examples
 
-Please refer to [examples](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.470/blob/master/Examples.md) to see what each control looks like.
+Please refer to [examples](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.471/blob/master/Examples.md) to see what each control looks like.
 
 <!--======
 ## 2019-06-01 Build 10xx - June Update
@@ -59,10 +59,9 @@ Please refer to [examples](https://github.com/Wagnerp/Krypton-Toolkit-Suite-Exte
 * New developer API tools for internal development of the toolkit
 * Begun re-working the `Palette Explorer` application
 * New `Palette Upgrade Tool` application for upgrading any older palette `xml` files
-* Upgraded to Krypton Toolkit Suite - version: **5.470.794**
 * Theme `*.xml` files are now available to view and edit in the Visual Studio solution under the **themes** folder
 * All theme files are now bundled with the NuGet package
-* Upgraded to Krypton Toolkit Suite - version: **5.470.901**
+* Upgraded to Krypton Toolkit Suite - version: **5.471.901**
 * Build 9xx (build date Wednesday 1st, May 2019) is now available on NuGet
 -->
 
