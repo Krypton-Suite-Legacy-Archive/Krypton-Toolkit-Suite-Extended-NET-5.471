@@ -1,4 +1,13 @@
-﻿using ExtendedFileDialogs.Classes.Old;
+﻿#region BSD License
+/*
+ * Use of this source code is governed by a BSD-style
+ * license that can be found in the LICENSE.md file or at
+ * https://github.com/Wagnerp/Krypton-Toolkit-Suite-Extended-NET-5.471/blob/master/LICENSE
+ *
+ */
+#endregion
+
+using ExtendedFileDialogs.Classes.Old;
 using ExtendedFileDialogs.Enumerations;
 using ExtendedFileDialogs.Structs;
 using System;
@@ -314,9 +323,9 @@ namespace ExtendedFileDialogs.Controls.Old
                         _ComboFolders = hwnd;
                         _ComboFoldersInfo = windowInfo;
                         break;
-                    //case ControlsId.ComboFileType:
-                    //    _hComboExtensions = hwnd;
-                    //    _ComboExtensionsInfo = windowInfo;
+                    case ControlsId.ComboFileType:
+                        _hComboExtensions = hwnd;
+                        _ComboExtensionsInfo = windowInfo;
                         break;
                     case ControlsId.ComboFileName:
                         if (className.ToString().ToLower() == "comboboxex32")
