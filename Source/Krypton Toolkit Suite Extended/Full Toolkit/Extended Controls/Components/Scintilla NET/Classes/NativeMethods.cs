@@ -592,7 +592,7 @@ namespace ExtendedControls.Components.ScintillaNET.Classes
         public const int SCI_GETWRAPVISUALFLAGSLOCATION = 2463;
         public const int SCI_SETWRAPSTARTINDENT = 2464;
         public const int SCI_GETWRAPSTARTINDENT = 2465;
-        public const int SCI_SETWRAPINDENTMODE = 2472;
+        public const int SCI_SETWRAPINDENTMODE = 2471;
         public const int SCI_GETWRAPINDENTMODE = 2473;
         public const int SCI_SETLAYOUTCACHE = 2272;
         public const int SCI_GETLAYOUTCACHE = 2273;
