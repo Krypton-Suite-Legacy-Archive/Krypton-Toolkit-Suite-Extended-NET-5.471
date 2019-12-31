@@ -52,10 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="KryptonToolkitSuite5471CoreModule">
-      <Version>5.471.2000</Version>
+      <Version>5.471.2098</Version>
     </PackageReference>
     <PackageReference Include="KryptonToolkitSuite5471NavigatorModule">
-      <Version>5.471.774</Version>
+      <Version>5.471.796</Version>
     </PackageReference>
     <PackageReference Include="WindowsAPICodePack">
       <Version>1.1.0</Version>

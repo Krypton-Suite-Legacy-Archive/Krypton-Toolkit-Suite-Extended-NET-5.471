@@ -41,8 +41,8 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("5.471.1019.0")]
-[assembly: AssemblyFileVersion("5.471.1019.0")]
+[assembly: AssemblyVersion("5.471.1032.0")]
+[assembly: AssemblyFileVersion("5.471.1032.0")]
 [assembly: Dependency("System", LoadHint.Always)]
 [assembly: Dependency("System.Xml", LoadHint.Always)]
 [assembly: Dependency("System.Drawing", LoadHint.Always)]
